@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Created-By: IntelliJ IDEA
+Built-By: Ihor_Haidukov
+Build-Jdk: Amazon Corretto version 11.0.14
+Implementation-Title: product
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.crud.app
+Main-Class: ${start-class}
+
